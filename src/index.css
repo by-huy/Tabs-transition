@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "DTGetaiGroteskDisplay-Black";
+  src: url("src/assets/fonts/DTGetaiGroteskDisplay-Black.otf") format("opentype");
+  font-display: normal;
+  font-style: normal;
+}
+
+* {
+  /* border: 1px solid red; */
+}
