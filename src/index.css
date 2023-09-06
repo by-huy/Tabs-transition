@@ -3,8 +3,13 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: "DTGetaiGroteskDisplay-Black";
-  src: url("src/assets/fonts/DTGetaiGroteskDisplay-Black.otf") format("opentype");
+  font-family: "Ranade-Variable";
+  src: url("src/assets/fonts/Ranade-Variable.woff2") format("woff2");
+  font-display: normal;
+  font-style: normal;
+
+  font-family: "Switzer-Variable";
+  src: url("src/assets/fonts/Switzer-Variable.woff2") format("woff2");
   font-display: normal;
   font-style: normal;
 }

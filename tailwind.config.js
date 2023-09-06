@@ -7,7 +7,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        'getai': ['DTGetaiGroteskDisplay-Black', 'display']
+        'ranade': ['Ranade-Variable', 'sans-serif'],
+        'switzer': ['Switzer-Variable', 'sans-serif']
       },
       fontSize: {
         'display': ['clamp(3rem, 12.4em - 0.5rem, 15em)'],
